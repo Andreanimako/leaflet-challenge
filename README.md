@@ -14,7 +14,8 @@ The imported data was then visualized by doing the following:
 
 4. A legend that provides context for the map data created.
 
-The code is saved within the logic.js file found within the static folder under leaflet 1.-https://github.com/Andreanimako/leaflet-challenge/tree/main/Leaflet-Part-1/static
+The code is saved within the logic.js file found within the static folder under leaflet-Part-1.-https://github.com/Andreanimako/leaflet-challenge/tree/main/Leaflet-Part-1/static
 
-The index.html file is saved within the leaflet 1 folder.-https://github.com/Andreanimako/leaflet-challenge/blob/main/Leaflet-Part-1/index.html
+The index.html file is saved within the leaflet-Part-1 folder.-https://github.com/Andreanimako/leaflet-challenge/blob/main/Leaflet-Part-1/index.html
 
+Leaflet-Part-2 is yet to be updated. 
